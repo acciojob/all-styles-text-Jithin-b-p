@@ -1,5 +1,8 @@
 
 /* Your CSS Code here. */
+.heading{
+	font-size: 20px;
+}
 .main {
 	background-color: purple;
 	width: 200px;
